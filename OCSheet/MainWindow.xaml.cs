@@ -23,6 +23,7 @@ namespace OCSheet
         public MainWindow()
         {
             InitializeComponent();
+            Controller test = new Controller();
         }
     }
 }
